@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#FFD60A"/>
+  <!-- Headphones shape -->
+  <path d="M16 36 C16 24 24 16 32 16 C40 16 48 24 48 36" stroke="#000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Left earpiece -->
+  <rect x="12" y="34" width="8" height="14" rx="3" fill="#000"/>
+  <!-- Right earpiece -->
+  <rect x="44" y="34" width="8" height="14" rx="3" fill="#000"/>
+  <!-- Play triangle -->
+  <polygon points="28,30 28,42 38,36" fill="#000"/>
+</svg>

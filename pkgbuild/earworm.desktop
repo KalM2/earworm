@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Earworm
+Comment=A smart audiobook player for the desktop
+Name[da]=Earworm
+Comment[da]=En smart lydbogsspiller til skrivebordet
+Exec=earworm %f
+Icon=earworm
+Terminal=false
+Categories=AudioVideo;Player;
+StartupWMClass=earworm
